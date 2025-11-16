@@ -1,3 +1,9 @@
 .text-justify{
     text-align: justify;
 }
+.text-sans{
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
